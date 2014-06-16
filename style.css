@@ -1,0 +1,45 @@
+body {
+	font-family: Tahoma;
+	font-size: 28px;
+	background: url("./img/bg.jpg") repeat;
+	width: 600px;
+	margin: 0 auto;
+}
+
+
+.images {
+	margin:80px 2px;
+	width:auto;
+	height:auto;
+	text-align:center;
+}
+
+.images img {
+	max-width:600px;
+	border-radius: 10px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+.footer {
+	font-family: Tahoma;
+	font-size: 0.75em;
+    color:#969696;
+    margin-top:100px 0;
+    text-align:center;
+}
+
+a:link {color:#969696;}
+a:visited {color:#969696;}
+a:hover {color:#808080;}
+a:active {color:#808080;}
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:underline;}
+a:active {text-decoration:underline;}
+
+#flashplayer {
+ position: absolute;
+ bottom: 20px;
+ right: 5px;
+ width: 200px;
+}
