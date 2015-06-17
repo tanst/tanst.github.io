@@ -1,28 +1,22 @@
 body {
-	font-family: Tahoma;
-	font-size: 28px;
+	text-align: center;
 	background: url("./img/bg.jpg") repeat;
-	width: 600px;
-	margin: 0 auto;
 }
 
 
 .images {
 	margin:80px 2px;
-	width:auto;
-	height:auto;
-	text-align:center;
 }
 
 .images img {
-	max-width:600px;
+	max-width:100%;
 	border-radius: 10px;
 	box-shadow: 0 0 20px rgba(0,0,0,0.2);
 }
 
 .footer {
 	font-family: Tahoma;
-	font-size: 0.75em;
+	font-size: 15px;
     color:#969696;
     margin-top:100px 0;
     text-align:center;
